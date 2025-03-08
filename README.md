@@ -1,0 +1,2 @@
+A pasta Assistente deve conter o código main, o qual será executado pelo agendador de tarefas, observação: programe o agendador para executar o código dentro da pasta que contém a pasta assistente, todos os dias, em algum horário de sua prefêrencia. Em breve, vou trazer a pasta do github screenshots de como você deve configurar a sua tarefa.
+Os arquivos python dos projetos que serão executados diariamente/semanalmente devem ficar alocados em pastas que estejam na mesma pasta que a pasta assistente.
